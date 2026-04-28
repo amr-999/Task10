@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SalesDatabase/SalesDatabase.csproj" />
+  <Project Path="StudentSystem/StudentSystem.csproj" />
+</Solution>
